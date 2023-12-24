@@ -1,0 +1,33 @@
+h1 {
+    color: white;
+}
+p {
+    color: white;
+    font-size: 25px;
+}
+hr {
+   border: 5px solid cyan ;
+}
+li {
+    font-size: 20px;
+    color: aliceblue;
+}
+body {
+    background-color: black;
+}
+ul {
+    color:white;
+    font-size: 20px;
+}
+video {
+    size: 5px;
+}
+#frist {
+    font-size: 30px;
+}
+ol {
+    color: aliceblue;
+}
+#one {
+    font-size: 35px;
+}
